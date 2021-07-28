@@ -1,0 +1,21 @@
+body{
+    font-family:fantasy;
+    text-align: center;
+}
+h1{
+    text-align: center;
+    color:  seagreen;
+    margin: 30px 0 50px;
+    
+}
+.gallery{
+    margin: 10px 50px;
+}
+.gallery img{
+    width: 230px;
+    padding: 5px;
+    filter: opacity(100%);
+}
+.B{
+    font-family: cursive;
+}
